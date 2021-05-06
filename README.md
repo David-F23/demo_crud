@@ -1,8 +1,8 @@
 # demo_crud
-Ejercicio colaborativo semana 6
-Integrantes:
-Abel Hernesto López Hernández
-Alexis Giovanni Angel López
-David Enrique Flores Valladares
-Edwin Alexander Hernándex Grande
+Ejercicio colaborativo semana 6<br>
+Integrantes:<br>
+Abel Hernesto López Hernández<br>
+Alexis Giovanni Angel López<br>
+David Enrique Flores Valladares<br>
+Edwin Alexander Hernándex Grande<br>
 Samuel Antonio Hernández Chorro
