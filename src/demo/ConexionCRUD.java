@@ -6,4 +6,7 @@ package demo;
  */
 public class ConexionCRUD {
     
+    public void guardarRegistros(String tabla, String camposTabla, String valoresCampos){
+        
+    }        
 }
